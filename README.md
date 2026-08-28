@@ -1,4 +1,4 @@
-* [[Home]]
+* [[Home](https://github.com/alishahbaz/AI-Governance/wiki)]
 * [[Step-1-Vocabulary-and-Failures]]
 * [[Step-2-Identifying-and-Categorizing-Risks]]
 * [[Step-3-Ethics-by-Design]]
