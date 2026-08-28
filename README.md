@@ -101,7 +101,7 @@ By the end of this Wiki, you will understand:
 
 Begin with the main Wiki page:
 
-👉 **[Wiki Home](wiki/Home)**
+👉 **[Wiki Home](https://github.com/alishahbaz/AI-Governance/wiki)**
 
 ---
 
@@ -109,17 +109,17 @@ Begin with the main Wiki page:
 
 | Section | Description | Link |
 |---|---|---|
-| Home | Main landing page | [Home](wiki/Home) |
-| Step 1 | Vocabulary and real-world AI failures | [Step 1](wiki/Step-1-Vocabulary-and-Failures) |
-| Step 2 | Identifying and categorizing AI risks | [Step 2](wiki/Step-2-Identifying-and-Categorizing-Risks) |
-| Step 3 | Ethics by Design and technical safeguards | [Step 3](wiki/Step-3-Ethics-by-Design) |
-| Step 4 | Organizational governance and roles | [Step 4](wiki/Step-4-Organizational-Governance) |
-| Step 5 | Global regulations and standards | [Step 5](wiki/Step-5-Global-Regulations) |
-| Step 6 | Change management and digital literacy | [Step 6](wiki/Step-6-Change-Management) |
-| Glossary | Key terms explained simply | [Glossary](wiki/Glossary) |
-| Case Studies | Real-world AI failure examples | [Case Studies](wiki/Case-Studies) |
-| Quick Reference | One-page cheat sheet | [Quick Reference](wiki/Quick-Reference) |
-| One-Page Summary | Compact summary of the full path | [One-Page Summary](wiki/One-Page-Summary) |
+| Home | Main landing page | [Home](https://github.com/alishahbaz/AI-Governance/wiki/Home) |
+| Step 1 | Vocabulary and real-world AI failures | [Step 1](https://github.com/alishahbaz/AI-Governance/wiki/Step-1-Vocabulary-and-Failures) |
+| Step 2 | Identifying and categorizing AI risks | [Step 2](https://github.com/alishahbaz/AI-Governance/wiki/Step-2-Identifying-and-Categorizing-Risks) |
+| Step 3 | Ethics by Design and technical safeguards | [Step 3](https://github.com/alishahbaz/AI-Governance/wiki/Step-3-Ethics-by-Design) |
+| Step 4 | Organizational governance and roles | [Step 4](https://github.com/alishahbaz/AI-Governance/wiki/Step-4-Organizational-Governance) |
+| Step 5 | Global regulations and standards | [Step 5](https://github.com/alishahbaz/AI-Governance/wiki/Step-5-Global-Regulations) |
+| Step 6 | Change management and digital literacy | [Step 6](https://github.com/alishahbaz/AI-Governance/wiki/Step-6-Change-Management) |
+| Glossary | Key terms explained simply | [Glossary](https://github.com/alishahbaz/AI-Governance/wiki/Glossary) |
+| Case Studies | Real-world AI failure examples | [Case Studies](https://github.com/alishahbaz/AI-Governance/wiki/Case-Studies) |
+| Quick Reference | One-page cheat sheet | [Quick Reference](https://github.com/alishahbaz/AI-Governance/wiki/Quick-Reference) |
+| One-Page Summary | Compact summary of the full path | [One-Page Summary](https://github.com/alishahbaz/AI-Governance/wiki/One-Page-Summary) |
 
 <!--
 If relative Wiki links do not render in your context, replace them with absolute links:
@@ -226,20 +226,20 @@ flowchart TD
 ## How to Use This Repository
 
 1. **Start with the Wiki Home**
-   - Open [Home](wiki/Home)
+   - Open [Home](https://github.com/alishahbaz/AI-Governance/wiki/Home)
    - Read the 60-second summary
 
 2. **Follow the six steps**
    - Work through Step 1 to Step 6 in order
 
 3. **Use the Glossary when needed**
-   - Check [Glossary](wiki/Glossary) for term definitions
+   - Check [Glossary](https://github.com/alishahbaz/AI-Governance/wiki/Glossary) for term definitions
 
 4. **Review case studies**
-   - See [Case Studies](wiki/Case-Studies) for real-world examples
+   - See [Case Studies](https://github.com/alishahbaz/AI-Governance/wiki/Case-Studies) for real-world examples
 
 5. **Use Quick Reference for revision**
-   - Visit [Quick Reference](wiki/Quick-Reference) for a compact summary
+   - Visit [Quick Reference](https://github.com/alishahbaz/AI-Governance/wiki/Quick-Reference) for a compact summary
 
 ---
 
